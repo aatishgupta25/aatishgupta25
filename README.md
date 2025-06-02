@@ -9,3 +9,4 @@ Here are a few things about me:
    - LinkedIn: [https://www.linkedin.com/in/aatish-gupta-958918255/](https://www.linkedin.com/in/aatish-gupta-958918255/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I recently made an app to split restaurant bills using Flutter. [App Demo](https://www.youtube.com/watch?si=Ylu9j7f9wHgKiC3N&v=uYyA4W0vMcg&feature=youtu.be)
+- My [LeetCode Profile](https://leetcode.com/u/aatishgupta25/)
