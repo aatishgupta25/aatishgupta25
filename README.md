@@ -8,5 +8,5 @@ Here are a few things about me:
    - Email: [aatishgupta.edu@gmail.com](mailto:aatishgupta.edu@gmail.com)  
    - LinkedIn: [https://www.linkedin.com/in/aatish-gupta-cs/](https://www.linkedin.com/in/aatish-gupta-cs/)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I recently made an app to split restaurant bills using Flutter. [App Demo](https://www.youtube.com/watch?si=Ylu9j7f9wHgKiC3N&v=uYyA4W0vMcg&feature=youtu.be)
+- My [Resume](https://drive.google.com/file/d/1L0Pev7KJk9XhIQml-le8Imu3D8ittBGU/view?usp=sharing)
 - My [LeetCode Profile](https://leetcode.com/u/aatishgupta25/)
