@@ -7,6 +7,4 @@ Here are a few things about me:
 - 📫 How to reach me:  
    - Email: [aatishgupta.edu@gmail.com](mailto:aatishgupta.edu@gmail.com)  
    - LinkedIn: [https://www.linkedin.com/in/aatish-gupta-cs/](https://www.linkedin.com/in/aatish-gupta-cs/)
-- 😄 Pronouns: He/him
-- My [Resume](https://drive.google.com/file/d/1gKFTrKO4bZv-GznCWhYHurTUdhUeiMnd/view?usp=sharing)
 - My [LeetCode Profile](https://leetcode.com/u/aatishgupta25/)
